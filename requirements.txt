@@ -1,0 +1,3 @@
+fastapi~=0.90.1
+openai~=0.26.5
+pyrebase4
