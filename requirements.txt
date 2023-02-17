@@ -3,3 +3,4 @@ openai~=0.26.5
 pyrebase4
 python-multipart
 uvicorn
+gunicorn
